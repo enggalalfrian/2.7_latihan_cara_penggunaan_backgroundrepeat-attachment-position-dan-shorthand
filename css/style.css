@@ -3,3 +3,11 @@
     background: url("../img/background.png");
     background-repeat: repeat-x;
 } */
+
+/* --Menampilkan gambar background hanya sekali-- */
+/* 
+body {
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+}
+ */
