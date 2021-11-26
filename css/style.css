@@ -20,3 +20,9 @@ body {
     background-position: right top;
     background-attachment: fixed;
 }
+
+/* properties shorthand digunakan untuk mempersingkat kode */
+/* body {
+background: #ffffff url("../img/pohon_burung.jpg") no-repeat right top;
+} 
+*/
