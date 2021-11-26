@@ -11,3 +11,12 @@ body {
     background-repeat: no-repeat;
 }
  */
+
+/* background position digunakan untuk menentukan posisi gambar background */
+/* background attachment digunakan agar gambar bisa terlihat saat di scroll atau tidak */
+body {
+    background-image: url("../img/pohon_burung.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
